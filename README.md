@@ -1,6 +1,6 @@
 ### Hi there 👋 thanks for stopping by
 
-📫 Here's how to reach me: jonathan.lam@canada.ca 
+📫 Here's how to reach me: jonathan.lam@statcan.gc.ca 
 
 <!--
 **jonlamdev/jonlamdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
